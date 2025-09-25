@@ -4,4 +4,4 @@
 weight_in_kg = float(input("Enter your weight in KG:"))
 KGToPounds = weight_in_kg * 2.2 
 rounded_pounds = round(KGToPounds,1)
-print(f"{rounded_pounds}")
+print(rounded_pounds)

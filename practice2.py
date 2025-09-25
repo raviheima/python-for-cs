@@ -8,4 +8,4 @@ number3 = float(input("Enter the third number: "))
 total = number1 + number2 + number3
 average = total / 3
 
-print(f"the total is number is {total} with an average of {average:.2f}")
+print(f"the total number is {total} with an average of {average:.2f}")
